@@ -1,3 +1,5 @@
+// Beginner Level
+
 function productExceptSelf(nums) {
   const n = nums.length;
   const output = [];

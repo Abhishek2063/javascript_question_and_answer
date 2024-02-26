@@ -1,3 +1,5 @@
+// Intermediate Level
+
 function productExceptSelf(nums) {
   const n = nums.length;
   const leftProducts = new Array(n).fill(1);
